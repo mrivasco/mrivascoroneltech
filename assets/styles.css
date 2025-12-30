@@ -241,3 +241,8 @@ h3 { margin: 0 0 8px; }
   flex-direction: column;
   line-height: 1.1;
 }
+/* Logo en portada */
+.hero__logo {
+  max-width: 220px;
+  margin-bottom: 16px;
+}
