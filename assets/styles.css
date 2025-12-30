@@ -215,4 +215,12 @@ h3 { margin: 0 0 8px; }
   }
   .nav__menu.is-open { display: flex; }
 }
+/* Enlaces externos en títulos */
+.ext {
+  text-decoration: none;
+  color: inherit;
+}
+.ext:hover {
+  text-decoration: underline;
+}
 
