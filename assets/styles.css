@@ -223,4 +223,21 @@ h3 { margin: 0 0 8px; }
 .ext:hover {
   text-decoration: underline;
 }
+/* ===== LOGOTIPO ===== */
+.brand {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
 
+.brand__logo {
+  height: 42px;      /* Ajusta según tu logo */
+  width: auto;
+  max-width: 180px;
+}
+
+.brand__text {
+  display: flex;
+  flex-direction: column;
+  line-height: 1.1;
+}
