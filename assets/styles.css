@@ -231,7 +231,7 @@ h3 { margin: 0 0 8px; }
 }
 
 .brand__logo {
-  height: 75px;      /* Ajusta según tu logo */
+  height: 100px;      /* Ajusta según tu logo */
   width: auto;
   max-width: 180px;
 }
